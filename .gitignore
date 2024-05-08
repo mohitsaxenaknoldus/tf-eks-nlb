@@ -1,3 +1,4 @@
+# List of ignored files and dirs
 .idea
 .terraform.lock.hcl
 .terraform

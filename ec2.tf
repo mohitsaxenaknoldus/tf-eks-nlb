@@ -1,3 +1,4 @@
+# SG
 resource "aws_security_group" "eks_node_sg" {
   name        = "eks-node-sg"
   description = "Security group for EKS nodes"
